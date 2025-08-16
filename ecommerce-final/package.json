@@ -1,0 +1,10 @@
+{
+  "name": "e-commerce-website",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "mongoose": "^8.0.0"
+  }
+}
